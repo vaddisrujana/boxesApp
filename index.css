@@ -1,0 +1,37 @@
+/* Write your code here. */
+.box1 {
+  background-color: #fbbf24;
+  height: 20vh;
+  width: 10vw;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Bree serif";
+  font-size: 30px;
+  margin-right: 20px;
+}
+.box2 {
+  background-color: #38bdf8;
+  height: 50vh;
+  width: 20vw;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Bree serif";
+  font-size: 30px;
+  margin-right: 20px;
+}
+.box3 {
+  background-color: #ec4899;
+  height: 80vh;
+  width: 40vw;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Bree serif";
+  font-size: 30px;
+}
+.background {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  text-align: center;
+}
